@@ -288,7 +288,7 @@ Haskell est un langage [polymorphiques](https://wiki.haskell.org/Polymorphism) [
     - [Essayez Haskell][haskell-try]
       Un guide interactif qui enseigne Haskell de base.
 - **tutoriels videos:** N/A
-- **Livres et tutoriels (online):**
+- **Livres et tutoriels (En ligne):**
     - [Commencer avec Haskell][haskell-getting-started]
       Un méta-guide complet qui suggère l'ordre recommandé pour suivre les didacticiels Haskell du début à la fin.
     - [Learn You a Haskell for Great Good][haskell-great-good]
@@ -315,29 +315,29 @@ Haskell est un langage [polymorphiques](https://wiki.haskell.org/Polymorphism) [
 
   [haskell-h-99]: http://haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
 
-### HTML, CSS, and JavaScript
+### HTML, CSS, et JavaScript
 
-Note: HTML, CSS, and JavaScript are the three core technologies that runs on every web browser and makes up every webpage.
+NB: HTML, CSS et JavaScript sont les trois technologies de base qui s'exécutent sur chaque navigateur Web et constituent chaque page Web.
 
-HTML is a language used to describe the _structure_ and _content_ of a webpage. CSS is used to describe the _style_ and _appearance_. JavaScript is used to add _behavior_ and _interactivity_.
+HTML est un langage utilisé pour décrire la _structure_ et le _contenu_ d'une page web, CSS pour décrire le _style_ and _l'apparence_ et JavaScript pour le _comportement_ et les _interactivités_.
 
-The recommended learning order is typically to start with HTML and CSS, then move on to learning JavaScript once you feel you've acquired a basic understanding of the previous two.
+L'ordre d'apprentissage recommandé est généralement de commencer par HTML et CSS, puis passez à l'apprentissage JavaScript une fois que vous vous sentez que vous avez acquis une compréhension de base des deux précédents.
 
-Also note that HTML and CSS are examples of "markup languages", not "programming languages" and so will feel fairly different from JavaScript. If your goal is to learn just programming, you might want to jump straight ahead to JavaScript (or pick a different programming language!). However, since the main way to actually use JavaScript is through the web browser, you _do_ need to learn HTML and CSS at one point or another.
+Notez également que HTML et CSS sont des exemples de "langages de balisage", pas de "langages de programmation" et donc assez différents de JavaScript. Si votre objectif est d'apprendre juste la programmation, vous voudrez peut-être sauter directement à JavaScript (ou choisir un autre langage de programmation!). Cependant, étant donné que la principale façon d'utiliser réellement JavaScript est à travers le navigateur Web, vous aurez besoin d'apprendre HTML et CSS à un moment ou un autre.
 
-- **Online courses:**
-    - Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser.
-      - [Make a website][general-assembly-make-website]
-    - Codecademy has several courses related to web development.
-        - [Make a website][webdev-cc-make-website]
-        - [Make an interactive website][webdev-cc-make-interactive]
+- **Cours en ligne:**
+    - Dash enseigne HTML, CSS et Javascript à travers des projets amusants que vous pouvez faire dans votre navigateur.
+      - [Faire un site web][general-assembly-make-website]
+    - Codecademy a plusieurs cours liés au développement web.
+        - [Faire un site web][webdev-cc-make-website]
+        - [Faire un site web interactif][webdev-cc-make-interactive]
         - [HTML & CSS][webdev-cc-html-css]
         - [JavaScript][webdev-cc-js]
         - [jQuery][webdev-cc-jquery]
-    - So does Udacity:
-        - [Intro to HTML and CSS][webdev-uda-html-css]
-        - [JavaScript Basics][webdev-uda-js]
-          Does require some prior programming experience.
+    - Mais aussi Udacity:
+        - [Introduction à HTML et CSS][webdev-uda-html-css]
+        - [Les bases du JavaScript][webdev-uda-js]
+          Nécessite une expérience de programmation préalable.
     - Open Culture's [Building Dynamic Websites][webdev-open-dynamic]
       Hosted by Harvard, and covers a wide variety of topics.
     - Khan Academy has a series of [three courses][webdev-khan] on introductory Javascript that focuses on drawing graphics and animations, and making games.
