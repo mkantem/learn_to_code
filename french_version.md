@@ -1,7 +1,7 @@
 # Introduction à la programmation
 **Liste de ressources pour les développeurs en herbe**
 
-## Sommaire
+## Sommaire 
 [**SEE GITHUB PAGE VIEW**](http://ashleymcnamara.github.io/learn_to_code/)
 - [Introduction](#introduction)
     - [Objectifs](#objectifs)
