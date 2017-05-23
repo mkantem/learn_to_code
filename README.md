@@ -9,7 +9,7 @@
     - [Quelle ressource dois-je choisir?](#quelle-ressource-dois-je-choisir)
     - [Attention](#attention)
 - [Ressources générales](#ressources-générales)
-    - [Autres](#liens-vers-de-plus-grandes-listes)
+    - [Autres](#autres)
     - [Cours en ligne](#cours-en-ligne)
 - [Les Langages de programmation](#les-langages-de-programmation)
     - [C](#c)
@@ -97,9 +97,6 @@ Quand je dis qu'une ressource est _"lourde en théorie"_ ou _"rigide"_, c'est qu
 
 Cette page est toujours un **travail en cours**! Certaines sections peuvent actuellement être incomplètes, et certains liens peuvent ne pas encore être complètement vérifiés.
 
-Si vous souhaitez contribuer, veuillez consulter ** [CONTRIBUTING.md] [contrib] ** pour plus de détails.
-
-  [contrib]: https://github.com/ashleymcnamara/learn_to_code/blob/master/Contributing.md
 
 ## Ressources générales
 
@@ -131,7 +128,7 @@ Les sites Web suivants contiennent également une grande variété de didacticie
 - **[PluralSight](http://www.pluralsight.com/)** - Similaire à Lynda, mais avec un accent sur les développeurs et les cours IT.
 -  **[General Assembly](https://generalassemb.ly/)** - Comprend également des cours sur la conception, l'animation, la vidéo, les affaires et bien plus encore.
 
-En général, edX, OpenCulture, MIT OpenCourseware et Stanford Engineering Everywhere ont tendance à contenir des cours plus rigoureux, approfondis et exigeants, tandis que Codecademy et Khan Academy ont tendance à se concentrer sur une introduction plus douce à la programmation. Coursera et Udacity ont tendance à varier entre ces deux extrêmes.
+En général, edX, OpenCulture, MIT OpenCourseware et Stanford Engineering Everywhere ont tendance à contenir des cours plus rigoureux, approfondis et exigeants, tandis que Codecademy et Khan Academy ont tendance à se concentrer sur une introduction plus douce à la programmation. Coursera, Udacity et OpenClassrooms ont tendance à varier entre ces deux extrêmes.
 
 
 ## Les Langages de programmation
