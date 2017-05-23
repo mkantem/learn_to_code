@@ -47,9 +47,9 @@
 
 En conséquence, il ya un nombre de plus en plus important de ressources et de tutoriels produites pour les débutants qui veulent apprendre à coder, allant des livres aux tutoriels en ligne aux sites Web interactifs aux cours en ligne massifs ouverts _(MOOCS)_ comme [Codecademy](https://www.codecademy.com/fr), [Coursera](https://www.coursera.org/) et [OpenClassrooms](https://openclassrooms.com/)
 
-Bien que cela soit merveilleux, il peut également être un problème pour les débutants - il ya presque trop de ressources _many_ disponibles, et il est difficile de savoir par où commencer.
+Bien que cela soit merveilleux, il peut également être un problème pour les débutants - il ya presque trop de ressources disponibles, et il est difficile de savoir par où commencer.
 
-Cette page est destinée à aider à résoudre ce problème - pour présenter une liste de ressources pour les personnes qui sont soit nouvelles à la programmation, nouvelles à un sujet particulier, ou veulent faire progresser leurs compétences au-delà du stade débutant. Cette page n'essaie pas de répertorier toutes les ressources disponibles, mais plutôt des liens vers des ressources qui sont **garantis** d'être de haute qualité.
+Cette page est destinée à aider à résoudre ce problème - pour présenter une liste de ressources pour les personnes qui sont soit nouvelles à la programmation, nouvelles à un sujet particulier, ou veulent faire progresser leurs compétences au-delà du stade débutant. Cette page n'essaie pas de répertorier toutes les ressources disponibles, mais plutôt des liens vers des ressources qui sont **garanties** d'être de haute qualité.
 
 
 ### Par où commencer?
