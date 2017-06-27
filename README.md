@@ -43,7 +43,7 @@
 
 ### Objectifs
 
- La programmation et l'informatique sont de plus en plus populaires que jamais - des initiatives comme [Une heure de code](https://hourofcode.com/fr) rendent l'apprentissage de la programmation plus populaire à travers le monde.
+La programmation et l'informatique sont de plus en plus populaires que jamais - des initiatives comme [Une heure de code](https://hourofcode.com/fr) rendent l'apprentissage de la programmation plus populaire à travers le monde.
 
 En conséquence, il ya un nombre de plus en plus important de ressources et de tutoriels produites pour les débutants qui veulent apprendre à coder, allant des livres aux tutoriels en ligne aux sites Web interactifs aux cours en ligne massifs ouverts _(MOOCS)_ comme [Codecademy](https://www.codecademy.com/fr), [Coursera](https://www.coursera.org/) et [OpenClassrooms](https://openclassrooms.com/)
 
